@@ -28,7 +28,7 @@
 4. [💬 The Telegram Bot](#4-the-telegram-bot)
 5. [📸 Screenshots](#5-screenshots)
 6. [🔗 Links and References](#6-links-and-references)
-
+7. [⚖️ License](#7-license)
 ---
 
 ## 1. 🎯 Introduction
